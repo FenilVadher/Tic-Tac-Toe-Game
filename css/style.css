@@ -1,0 +1,60 @@
+.first {
+  font-family: "Fira Sans", sans-serif;
+  background: -webkit-linear-gradient(left, #609edb, #ce60ce);
+  padding: 115px 0;
+}
+
+.second {
+  width: 97%;
+  margin: 0 auto;
+}
+.main {
+  margin: 10 auto;
+  text-align: center;
+}
+p{
+  padding: 10px;
+  color: #000000;
+  font-size: 30px;
+  font-weight: 25px;
+}
+
+.box {
+  min-width: 105px;
+  min-height: 95px;
+  background: -webkit-linear-gradient(left, #c5d159, #49ac56);
+  text-align: center;
+  vertical-align: center;
+  font-size: 60px;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.box:hover {
+  opacity: 0.7;
+}
+
+.main h2 {
+  color: #8b150d;
+  font-size: 50px;
+  display: none;
+}
+
+.main button {
+  border: none;
+  background: -webkit-linear-gradient(left, #0f0d91, #2790c0);
+  color: white;
+  border-radius: 3px;
+  padding: 5px 7px;
+  font-size: 23px;
+  cursor: pointer;
+  margin: 30px;
+}
+
+.main button:hover {
+  opacity: 0.7;
+}
+
+.main button:focus {
+  outline: none;
+}
