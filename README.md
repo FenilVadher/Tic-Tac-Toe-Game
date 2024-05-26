@@ -1,4 +1,4 @@
-# tic-tac-tic-game
+# Tic-Tac-Toe Game
 
 # Tic-Tac-Toe Game
 
@@ -14,4 +14,3 @@ This repository contains a simple implementation of the classic Tic-Tac-Toe game
 - 🎨 CSS for styling the game elements
 - ⚙️ JavaScript for game logic and interactivity
 
-Feel free to explore the code and suggest improvements or new features!
