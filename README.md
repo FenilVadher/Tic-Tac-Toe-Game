@@ -12,3 +12,10 @@ This repository contains a simple implementation of the classic Tic-Tac-Toe game
 - 🎨 CSS for styling the game elements
 - ⚙️ JavaScript for game logic and interactivity
 
+1)<b>Player name page:</b>
+
+![Screenshot 2024-05-26 163034](https://github.com/FenilVadher/Tic-Tac-Toe-Game/assets/115222424/c331536a-1c3f-4209-8d1d-56362f41ecd6)
+
+2)<b>Main Game page:</b>
+
+![Screenshot 2024-05-26 163100](https://github.com/FenilVadher/Tic-Tac-Toe-Game/assets/115222424/519cdeea-b191-4a23-ab79-784b609e14bf)
